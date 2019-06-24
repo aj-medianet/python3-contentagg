@@ -24,13 +24,17 @@ source venv/bin/activate
 Install python libraries - you must already have pip installed:
 
 pip3 install bs4
+
 pip3 install spacy
+
 pip3 install PyPDF2
+
 python3 -m spacy download en
 
 **************************************************************************
 
 Then run the program:
+
 python main.py
 
 **************************************************************************
