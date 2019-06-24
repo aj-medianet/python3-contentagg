@@ -14,7 +14,9 @@ Here's what it does:
 To run the program from the command line with python 3:
 
 git clone git@github.com:aj-medianet/content-aggregator.git
+
 cd content-aggregator/
+
 source venv/bin/activate
 
 **************************************************************************
