@@ -15,7 +15,7 @@ To run the program from the command line with python 3:
 
 git clone git@github.com:aj-medianet/content-aggregator.git
 
-cd content-aggregator/
+cd cd python3-contentagg 
 
 source venv/bin/activate
 
