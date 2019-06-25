@@ -35,7 +35,7 @@ python3 -m spacy download en
 
 Then run the program:
 
-python main.py
+python3 main.py
 
 **************************************************************************
 
